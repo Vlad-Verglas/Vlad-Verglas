@@ -15,14 +15,16 @@ Contact: Vlad.Verglas.Sec@proton.me
 
 ## Currently Working On
 
+project: Business-card coming soon
 ---
 
 ## Projects
 
-*Work in progress — coming soon.*
+web-projects: coming soon
 
 ---
 
 ## Platforms
 
-Linkedin: https://www.linkedin.com/in/angelo-b-493332411/
+Linkedin: https://www.linkedin.com/in/angelo-b-493332411
+Twitter: https://x.com/VladVerglas
