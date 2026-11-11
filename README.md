@@ -1,4 +1,4 @@
-# MoonCore-Sec
+# Vlad-Verglas
 
 Cybersecurity enthusiast | ITIS Student | junior 
 
@@ -9,7 +9,7 @@ Cybersecurity enthusiast | ITIS Student | junior
 Hi, I'm **Vlad Verglas** (real name: Angelo B.).
 I'm studying at an ITIS in Catania, Italy
 
-Contact: MoonCore.Sec@proton.me
+Contact: Vlad.Verglas.Sec@proton.me
 
 ---
 
